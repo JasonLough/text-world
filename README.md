@@ -20,10 +20,6 @@ Tile info for Castle Wraithbane, a level 9 evil castle ruled by a troll.
 
 ![Castle Wraithbane](public/castle-wraithbane.png)
 
-The same castle, with the party still inside the ring of explored forest.
-
-![Castle Wraithbane, explored ring](public/castle-wraithbane-close.png)
-
 Movement stops at terrain the character cannot cross.
 
 ![Blocked by mangrove](public/blocked-mangrove.png)
@@ -49,24 +45,24 @@ The legend lists terrain glyphs and character classes.
 
 The game is keyboard-first. One info panel is open at a time; press the same key again to close it.
 
-| Key | Action |
-| --- | --- |
-| Arrow keys | Move the selected character one tile |
-| Tab | Select the next living party member |
-| `h` | Help |
-| `l` | Legend of terrain glyphs and character classes |
-| `f` | Info for the tile you are standing on |
-| `c` | Character sheet for the selected member |
-| `i` | Inventory |
-| `m` | Map census (site counts, lawful and evil, seed) |
-| `z` | Cycle the minimap: local, whole world, hidden |
-| `r` | Recruit, if this character has the skill and the site allows it |
-| `g` | Gather (class skill; not finished) |
-| `n` | Mine (class skill; not finished) |
-| `s` | Search the area (not finished) |
-| `d` | Dig (class skill; not finished) |
-| `p` | Pray (class skill; not finished) |
-| `e` | Enter a town, shrine, graveyard, cave, dungeon, castle, temple, or similar site (not finished) |
+| Key        | Action                                                                                         |
+| ---------- | ---------------------------------------------------------------------------------------------- |
+| Arrow keys | Move the selected character one tile                                                           |
+| Tab        | Select the next living party member                                                            |
+| `h`        | Help                                                                                           |
+| `l`        | Legend of terrain glyphs and character classes                                                 |
+| `f`        | Info for the tile you are standing on                                                          |
+| `c`        | Character sheet for the selected member                                                        |
+| `i`        | Inventory                                                                                      |
+| `m`        | Map census (site counts, lawful and evil, seed)                                                |
+| `z`        | Cycle the minimap: local, whole world, hidden                                                  |
+| `r`        | Recruit, if this character has the skill and the site allows it                                |
+| `g`        | Gather (class skill; not finished)                                                             |
+| `n`        | Mine (class skill; not finished)                                                               |
+| `s`        | Search the area (not finished)                                                                 |
+| `d`        | Dig (class skill; not finished)                                                                |
+| `p`        | Pray (class skill; not finished)                                                               |
+| `e`        | Enter a town, shrine, graveyard, cave, dungeon, castle, temple, or similar site (not finished) |
 
 Click or drag the minimap to move the camera. The view recenters on the selected character when you move or switch party members.
 
@@ -90,4 +86,4 @@ npm start
 
 ## Contributing
 
-The game is in its first stages, and contributions are welcome. Open a pull request. Questions can go to [jason.lough@gmail.com](mailto:jason.lough@gmail.com).
+The game is in its first stages, and contributions are welcome. Note that there is a strong preference to NOT include any more packages in package.json. Interested? Open a pull request. Questions can go to [jason.lough@gmail.com](mailto:jason.lough@gmail.com).
