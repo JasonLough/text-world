@@ -1,8 +1,8 @@
 # Text World
 
-Text World is a very early attempt to mash up a roguelike with [Dwarf Fortress](http://www.bay12games.com/dwarves/) and [Final Fantasy Tactics](https://www.square-enix-games.com/en_US/games/final-fantasy-tactics). The world is a large, seed-generated map drawn with colored glyphs. You walk a small party across it, read the land, and try to recruit people at the places you find.
+Text World is an attempt in its early stages to mash up roguelike gameplay with Dwarf Fortress like gameplay with Final Fantasy Tactics gameplay. The world is a large, seed-generated map drawn with colored glyphs. You recruit new characters, explore the land, and eventually find / build / buy various items to assist you in your journey. The goal is to turn all the castles, towns, and shrines to your alignment (lawful, or evil).
 
-This is incomplete. Gather, mine, search, dig, pray, entering sites, and combat are only sketched in. The project is a side project by [jason.lough@gmail.com](mailto:jason.lough@gmail.com). Anyone can contribute.
+This is incomplete. Gather, mine, search, dig, pray, entering sites, and combat are only sketched in. The project is a side project by [jason.lough@gmail.com](mailto:jason.lough@gmail.com). Anyone can contribute!
 
 ## Screenshots
 
